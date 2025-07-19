@@ -140,7 +140,7 @@ model = Sequential([
 
 ## 🧪 Evaluation
 
-- Accuracy: **99%**
+- Accuracy: 🔥 **99% 🔥**
 - Confusion Matrix and training/validation graphs are displayed in the notebook.
 
 
