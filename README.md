@@ -140,14 +140,9 @@ model = Sequential([
 
 ## 🧪 Evaluation
 
-- Accuracy: ~X% (replace with your model's test accuracy)
+- Accuracy: **99%**
 - Confusion Matrix and training/validation graphs are displayed in the notebook.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
