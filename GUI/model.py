@@ -14,7 +14,9 @@ def predict_day_night(image: Image.Image) -> str:
     img_array = np.expand_dims(img_array, axis=0)  # Shape: (1, 128, 128, 3)
 
     # Predict
-    prediction = model.predict(img_array)[0][0]  # Single sigmoid output
-    label = "Day" if prediction < 0.5 else "Night"
+    prediction = np.round(model.predict(img_array)[0][0])  # Single sigmoid output
+    label = "Day" if prediction else "Night"
 
     return label
+
+
