@@ -58,6 +58,8 @@ Day-or-Night-Classification/
 ├── GUI/
 │   ├── app.py                       # Streamlit GUI
 │   └── model.py                     # Helper functions to load model and predict
+├── Presentation/
+│   └── Day-or-.....pdf              # Presentation of Project PDF
 │
 ├── requirements.txt                 # Project dependencies
 └── README.md                        # Project documentation
