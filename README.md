@@ -152,7 +152,7 @@ model = Sequential([
 
 ## 🎬 Presentation
 - Visit this [Website to see presentation](https://day-or-night-unveiling-t-5b7cn1t.gamma.site/)
-
+- See [PDF File](https://github.com/Zeyad-2004/Day-or-Night-Classification/blob/main/Presentation/Day-or-Night-Unveiling-the-Vision-of-AI.pdf)
 ---
 
 ## 🙋‍♂️ Author
