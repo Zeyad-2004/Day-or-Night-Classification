@@ -142,14 +142,16 @@ model = Sequential([
 
 ## 🧪 Evaluation
 
-- Accuracy: ~X% (replace with your model's test accuracy)
+- Accuracy: 🔥 **99% 🔥**
 - Confusion Matrix and training/validation graphs are displayed in the notebook.
 
 ---
+## ⚡GUI
+ ![Streamlit - Made with Clipchamp](https://github.com/user-attachments/assets/f9488400-35c1-4ad5-9fa6-b01947a745bc)
+---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 🎬 Presentation
+- Visit this [Website to see presentation](https://day-or-night-unveiling-t-5b7cn1t.gamma.site/)
 
 ---
 
