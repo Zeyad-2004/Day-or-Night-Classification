@@ -146,6 +146,11 @@ model = Sequential([
 
 ---
 
+## 🎬 Presentation
+- Visit this [Website to see presentation](https://day-or-night-unveiling-t-5b7cn1t.gamma.site/)
+
+---
+
 ## 🙋‍♂️ Author
 
 **Zeyad**
