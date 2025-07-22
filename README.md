@@ -144,7 +144,9 @@ model = Sequential([
 
 - Accuracy: 🔥 **99% 🔥**
 - Confusion Matrix and training/validation graphs are displayed in the notebook.
-
+---
+## 🎞️ Youtube Video
+- Visit Our project explanation Video on [Youtube](https://youtu.be/jhgD0_vsvl0)
 ---
 ## ⚡GUI
  ![Streamlit - Made with Clipchamp](https://github.com/user-attachments/assets/f9488400-35c1-4ad5-9fa6-b01947a745bc)
