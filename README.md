@@ -155,7 +155,7 @@ model = Sequential([
 - See [PDF File](https://github.com/Zeyad-2004/Day-or-Night-Classification/blob/main/Presentation/Day-or-Night-Unveiling-the-Vision-of-AI.pdf)
 ---
 ## 📃 LinkedIn Post
--- [Visit Post at LinkedIn](https://www.linkedin.com/posts/zeyad2004_day-or-night-classification-activity-7353517666780741632-5CXg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7KaHkBU_FUML0hnuWGigIQaZobblv5gz8)
+- [Visit Post at LinkedIn](https://www.linkedin.com/posts/zeyad2004_day-or-night-classification-activity-7353517666780741632-5CXg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7KaHkBU_FUML0hnuWGigIQaZobblv5gz8)
 ---
 
 ## 🙋‍♂️ Author
